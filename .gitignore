@@ -12,3 +12,5 @@ __pycache__/
 */._*.*
 ._.env
 env.*
+._*
+.DS_Store
