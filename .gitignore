@@ -8,7 +8,7 @@ __pycache__/
 .claude/plans/
 .venv/
 .venv/**
-._.*
-*/._*
+._.*.*
+*/._*.*
 ._.env
 env.*
